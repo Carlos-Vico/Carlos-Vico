@@ -1,7 +1,7 @@
 ![banner](https://github.com/Carlos-Vico/carlosvieira/blob/main/bannerld.png?raw=true)
 - 👋 Hi, I’m @Carlos Vieira
 - 👀 I'm interested in programming, especially java programming
-- 🌱 I’m currently learning about spring and react
+- 🌱 I’m currently learning about Spring Framework and Angular
 
 <!---
 Carlos-Vico/Carlos Vieira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
